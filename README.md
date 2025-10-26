@@ -122,7 +122,7 @@ qc.draw('mpl')
 
 ## 🎥 Project Presentation
 
-(Drive video link)
+(Drive video link): https://drive.google.com/file/d/1QRN5f8JKL5C8skjpG11GQmQaR7xVi8Se/view?usp=drivesdk
 
 ### The video explains:
 
